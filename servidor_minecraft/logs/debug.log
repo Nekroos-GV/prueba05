@@ -2632,3 +2632,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [01May2025 17:12:16.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
 [01May2025 17:12:32.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01May2025 17:12:32.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 17:17:32.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 17:17:32.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 17:22:32.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 17:22:32.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
