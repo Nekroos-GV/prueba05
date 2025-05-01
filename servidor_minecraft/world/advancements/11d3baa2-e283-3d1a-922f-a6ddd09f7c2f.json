@@ -974,7 +974,8 @@
       "bread": "2025-04-26 05:11:17 +0000",
       "dried_kelp": "2025-04-26 06:00:16 +0000",
       "melon_slice": "2025-04-26 22:01:49 +0000",
-      "cooked_chicken": "2025-04-26 21:49:57 +0000"
+      "cooked_chicken": "2025-04-26 21:49:57 +0000",
+      "carrot": "2025-05-01 19:20:21 +0000"
     },
     "done": false
   },
@@ -3160,12 +3161,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-29 22:14:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-29 21:59:32 +0000"
@@ -3190,12 +3185,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-29 22:14:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-29 21:59:32 +0000"
@@ -3214,12 +3203,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/safety_net": {
-    "criteria": {
-      "has_rope": "2025-04-29 21:59:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-29 21:59:32 +0000"
@@ -3229,6 +3212,24 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-29 21:59:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-29 21:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-29 22:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-29 22:14:55 +0000"
     },
     "done": true
   },
