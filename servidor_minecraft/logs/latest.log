@@ -354,3 +354,26 @@
 [01May2025 19:43:50.147] [Worker-Main-145/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [01May2025 19:44:06.113] [Worker-Main-145/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-16, y=-54, z=1646}
 [01May2025 19:46:05.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Dragonslayer]
+[01May2025 19:54:39.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Sea? Not a Problem]
+[01May2025 19:55:00.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[01May2025 19:55:00.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[01May2025 19:55:04.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:35733] logged in with entity id 118666 at (622.2398495947218, 63.0, 7508.253528103496)
+[01May2025 19:55:04.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[01May2025 19:55:04.624] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[01May2025 19:57:37.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[01May2025 19:57:37.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[01May2025 19:59:00.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[01May2025 19:59:00.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[01May2025 19:59:00.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01May2025 19:59:00.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01May2025 19:59:00.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01May2025 19:59:01.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01May2025 19:59:03.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[01May2025 19:59:03.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01May2025 19:59:03.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01May2025 19:59:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01May2025 19:59:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[01May2025 19:59:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01May2025 19:59:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01May2025 19:59:03.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01May2025 19:59:03.739] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

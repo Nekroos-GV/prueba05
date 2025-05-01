@@ -4713,21 +4713,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
     "criteria": {
-      "has_beetroot": "2025-05-01 19:09:39 +0000"
+      "has_item": "2025-05-01 18:42:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_book": "2025-05-01 19:21:46 +0000"
+      "has_stone_slab": "2025-05-01 19:02:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
-      "has_book": "2025-05-01 19:21:46 +0000"
+      "has_moss": "2025-05-01 19:03:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-01 19:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-01 19:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-01 19:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-01 19:03:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-01 19:03:21 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2025-05-01 19:03:22 +0000"
     },
     "done": true
   },
@@ -4737,21 +4773,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_candle": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_green_dye": "2025-05-01 19:20:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-05-01 19:38:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_green_dye": "2025-05-01 19:20:41 +0000"
+      "has_beetroot": "2025-05-01 19:09:39 +0000"
     },
     "done": true
   },
@@ -4761,9 +4785,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+  "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
-      "has_moss": "2025-05-01 19:03:11 +0000"
+      "has_beetroot": "2025-05-01 19:09:39 +0000"
     },
     "done": true
   },
@@ -4779,33 +4803,21 @@
     },
     "done": true
   },
-  "chimes:recipes/decorations/glass_bells": {
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "has_bottle": "2025-05-01 19:03:22 +0000"
+      "has_iron_block": "2025-05-01 19:13:46 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+  "minecraft:recipes/decorations/green_candle": {
     "criteria": {
-      "has_moss": "2025-05-01 19:03:11 +0000"
+      "has_green_dye": "2025-05-01 19:20:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
+  "minecraft:recipes/misc/lime_dye": {
     "criteria": {
-      "has_beetroot": "2025-05-01 19:09:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-05-01 19:02:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-05-01 19:03:21 +0000"
+      "has_green_dye": "2025-05-01 19:20:41 +0000"
     },
     "done": true
   },
@@ -4818,6 +4830,24 @@
   "minecraft:recipes/building_blocks/dye_green_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-01 19:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-01 19:20:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-01 19:21:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-01 19:21:46 +0000"
     },
     "done": true
   },
@@ -4845,27 +4875,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_needed_dye": "2025-05-01 19:20:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-05-01 19:03:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-05-01 18:42:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-05-01 19:03:11 +0000"
+      "has_oxeye_daisy": "2025-05-01 19:38:56 +0000"
     },
     "done": true
   },
@@ -4875,15 +4887,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "has_iron_block": "2025-05-01 19:13:46 +0000"
+      "killed_fire_dragon": "2025-05-01 19:46:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "iceandfire:recipes/combat/armor_green_leggings": {
     "criteria": {
-      "has_moss_block": "2025-05-01 19:03:11 +0000"
+      "has_item": "2025-05-01 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-05-01 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 19:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-01 19:51:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-01 19:54:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-05-01 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-05-01 19:54:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 19:55:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-05-01 19:58:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-05-01 19:55:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 19:55:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 19:55:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 19:55:59 +0000"
     },
     "done": true
   },
