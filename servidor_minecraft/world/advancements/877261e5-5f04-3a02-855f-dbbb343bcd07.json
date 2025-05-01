@@ -3380,9 +3380,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+  "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
-      "has_vine": "2025-05-01 16:13:10 +0000"
+      "has_stone_slab": "2025-05-01 15:45:18 +0000"
     },
     "done": true
   },
@@ -3404,12 +3404,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2025-05-01 16:13:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-05-01 16:07:26 +0000"
@@ -3419,18 +3413,6 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-01 16:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-05-01 15:45:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
-    "criteria": {
-      "has_vine": "2025-05-01 16:13:10 +0000"
     },
     "done": true
   },
@@ -3464,12 +3446,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
-    "criteria": {
-      "has_vine": "2025-05-01 16:13:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-01 16:07:26 +0000"
@@ -3479,6 +3455,30 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-01 16:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-01 16:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-01 16:13:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-01 16:13:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-05-01 16:13:10 +0000"
     },
     "done": true
   },
