@@ -173,3 +173,6 @@
 [01May2025 18:08:05.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:55605] logged in with entity id 45177 at (-3630.102663697037, 113.72722648436992, 443.93624522404224)
 [01May2025 18:08:05.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
 [01May2025 18:08:05.886] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[01May2025 18:23:05.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:41431] logged in with entity id 52103 at (447.6502649454034, 72.0, 4533.475785353485)
+[01May2025 18:23:05.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[01May2025 18:23:05.176] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
