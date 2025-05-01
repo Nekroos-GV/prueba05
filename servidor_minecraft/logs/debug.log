@@ -2990,3 +2990,7 @@ com.mojang.brigadier.exceptions.CommandSyntaxException: Invalid chat component: 
 [01May2025 18:23:05.161] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
 [01May2025 18:23:05.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
 [01May2025 18:23:05.176] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[01May2025 18:27:32.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 18:27:32.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01May2025 18:32:32.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01May2025 18:32:32.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
