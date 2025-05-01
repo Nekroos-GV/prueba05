@@ -166,3 +166,7 @@
 [01May2025 16:11:19.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngeloRLP> Perra
 [01May2025 16:20:01.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [My Name is Nobody]
 [01May2025 16:39:51.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Friendship Found]
+[01May2025 17:06:41.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[01May2025 17:06:41.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[01May2025 17:12:16.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[01May2025 17:12:16.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
