@@ -813,6 +813,7 @@
       "sweet_berries": "2025-04-30 00:17:02 +0000",
       "cooked_beef": "2025-04-26 04:49:50 +0000",
       "cooked_cod": "2025-04-29 04:19:06 +0000",
+      "glow_berries": "2025-05-01 18:34:30 +0000",
       "melon_slice": "2025-04-29 04:31:29 +0000"
     },
     "done": false
@@ -2853,6 +2854,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-05-01 18:34:23 +0000",
       "sweet_berries": "2025-04-30 00:16:18 +0000",
       "kelp": "2025-04-29 05:14:10 +0000"
     },
@@ -3479,6 +3481,42 @@
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vine": {
     "criteria": {
       "has_vine": "2025-05-01 16:13:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-01 18:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-05-01 18:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-05-01 18:38:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-05-01 18:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-05-01 18:38:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-01 18:38:00 +0000"
     },
     "done": true
   },

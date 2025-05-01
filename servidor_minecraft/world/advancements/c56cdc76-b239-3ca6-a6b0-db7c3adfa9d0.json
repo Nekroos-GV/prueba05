@@ -14,11 +14,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2025-04-26 22:02:41 +0000",
+      "minecraft:badlands": "2025-05-01 18:55:34 +0000",
       "minecraft:beach": "2025-04-26 04:14:02 +0000",
       "minecraft:mangrove_swamp": "2025-04-26 21:38:54 +0000",
       "minecraft:sparse_jungle": "2025-04-26 04:41:13 +0000",
       "minecraft:river": "2025-04-26 04:23:38 +0000",
       "minecraft:lukewarm_ocean": "2025-04-26 21:04:24 +0000",
+      "minecraft:stony_shore": "2025-05-01 18:56:19 +0000",
       "minecraft:forest": "2025-04-26 04:23:44 +0000",
       "minecraft:lush_caves": "2025-04-28 01:25:31 +0000",
       "minecraft:desert": "2025-04-26 21:04:43 +0000",
@@ -521,7 +523,8 @@
       "minecraft:witch": "2025-04-26 04:35:47 +0000",
       "minecraft:cave_spider": "2025-04-30 00:31:41 +0000",
       "minecraft:enderman": "2025-04-28 01:33:16 +0000",
-      "minecraft:zombie": "2025-04-26 04:17:55 +0000"
+      "minecraft:zombie": "2025-04-26 04:17:55 +0000",
+      "minecraft:drowned": "2025-05-01 19:06:24 +0000"
     },
     "done": false
   },
@@ -4699,6 +4702,96 @@
   "farmersdelight:recipes/food/rice": {
     "criteria": {
       "has_rice_panicle": "2025-05-01 16:46:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-05-01 18:32:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-01 19:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-05-01 19:08:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-01 19:09:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-01 19:03:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-05-01 19:11:41 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2025-05-01 19:03:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-01 19:03:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-01 19:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-01 19:02:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-05-01 19:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-01 19:03:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-01 18:42:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-01 19:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-01 19:03:11 +0000"
     },
     "done": true
   },
