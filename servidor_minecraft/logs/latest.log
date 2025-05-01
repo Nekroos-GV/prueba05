@@ -159,3 +159,6 @@
 [01May2025 15:38:52.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01May2025 15:38:52.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP carlosZGV<--[HERE]
 [01May2025 15:40:45.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made carlosZGV a server operator
+[01May2025 16:03:16.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:52171] logged in with entity id 10200 at (467.6030912961182, 68.41999998688698, 4499.613065681671)
+[01May2025 16:03:16.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[01May2025 16:03:16.896] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
