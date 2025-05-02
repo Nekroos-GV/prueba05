@@ -171,3 +171,36 @@
 [02May2025 01:52:14.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP was slain by Cyclops
 [02May2025 01:53:36.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Enchanter]
 [02May2025 01:54:20.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP was slain by Cyclops
+[02May2025 01:56:31.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[02May2025 01:56:31.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[02May2025 01:56:40.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:34429] logged in with entity id 14279 at (-3649.262370958282, 89.0, 461.6722543928518)
+[02May2025 01:56:40.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[02May2025 01:56:40.090] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[02May2025 02:01:38.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.29667033441364765
+[02May2025 02:01:38.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.321974415965542
+[02May2025 02:01:38.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.3447480887589336
+[02May2025 02:01:38.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngeloRLP) moved wrongly! 0.36524439372988127
+[02May2025 02:02:23.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
+[02May2025 02:02:49.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV fell from a high place
+[02May2025 02:03:59.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[02May2025 02:03:59.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[02May2025 02:04:08.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:34891] logged in with entity id 21569 at (-3632.699999988079, 68.0, 481.0527848275184)
+[02May2025 02:04:08.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[02May2025 02:04:08.025] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[02May2025 02:04:26.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[02May2025 02:04:26.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[02May2025 02:04:35.606] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:59307] logged in with entity id 22477 at (-3632.699999988079, 68.0, 481.0527848275184)
+[02May2025 02:04:35.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[02May2025 02:04:35.627] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[02May2025 02:07:44.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV was shot by Skeleton
+[02May2025 02:08:24.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlosZGV> ZZZZZZZZZZZZZZZZ
+[02May2025 02:08:31.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[02May2025 02:08:31.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[02May2025 02:09:13.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:37341] logged in with entity id 27070 at (-1258.1427432610883, 68.49520087700593, 2588.1933447170045)
+[02May2025 02:09:13.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[02May2025 02:09:13.872] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[02May2025 02:09:21.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[02May2025 02:09:21.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[02May2025 02:10:28.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:41859] logged in with entity id 27933 at (-1247.528306778041, 69.0, 2596.4692140155244)
+[02May2025 02:10:28.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[02May2025 02:10:28.424] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
