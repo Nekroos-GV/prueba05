@@ -239,3 +239,29 @@
 [02May2025 02:57:08.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:41763] logged in with entity id 66597 at (-1289.3425258920804, 83.06816489005841, 3076.4541476612835)
 [02May2025 02:57:08.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
 [02May2025 02:57:08.035] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[02May2025 02:58:59.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngeloRLP> duerman
+[02May2025 02:59:25.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[02May2025 02:59:25.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[02May2025 02:59:31.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngeloRLP> machucado duerme
+[02May2025 02:59:45.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[02May2025 02:59:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[02May2025 02:59:55.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:55271] logged in with entity id 68532 at (-1289.984364522504, 264.0, 3068.237624767216)
+[02May2025 02:59:55.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[02May2025 02:59:55.566] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[02May2025 03:01:00.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:47475] logged in with entity id 69949 at (-3867.857588965952, -39.0, 346.202604030142)
+[02May2025 03:01:00.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[02May2025 03:01:00.832] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[02May2025 03:02:08.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <machucado> estan con vale?
+[02May2025 03:03:05.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado fell off a ladder
+[02May2025 03:04:05.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Splintering II]
+[02May2025 03:07:54.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado was kicked for floating too long!
+[02May2025 03:07:55.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Flying is not enabled on this server
+[02May2025 03:07:55.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[02May2025 03:08:01.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:60589] logged in with entity id 76063 at (-1290.2595193402942, 66.16708038520609, 3074.1954869133265)
+[02May2025 03:08:01.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[02May2025 03:08:01.676] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[02May2025 03:08:05.964] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Vanessa}[style={}] has been infected
+[02May2025 03:10:20.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado has made the advancement [Enchanter]
+[02May2025 03:14:32.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <machucado> se conecto yayi sale su lol?
+[02May2025 03:15:15.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[02May2025 03:15:15.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
