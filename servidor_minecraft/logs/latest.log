@@ -204,3 +204,38 @@
 [02May2025 02:10:28.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:41859] logged in with entity id 27933 at (-1247.528306778041, 69.0, 2596.4692140155244)
 [02May2025 02:10:28.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
 [02May2025 02:10:28.424] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[02May2025 02:20:58.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[02May2025 02:20:58.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[02May2025 02:23:25.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP has made the advancement [Light as a Rabbit]
+[02May2025 02:24:19.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:35645] logged in with entity id 35760 at (-3697.548038139564, 71.0, 874.3564433930998)
+[02May2025 02:24:19.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[02May2025 02:24:19.377] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[02May2025 02:27:20.827] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1985, y=42, z=2392} but found not block entity block Block{minecraft:water}[level=1] at location
+[02May2025 02:27:20.827] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-1985, y=42, z=2392}
+[02May2025 02:27:43.615] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1154287141,-1131000828,-1722453399,506254198],type:"minecraft:entity",y_offset:0.36f}}]
+[02May2025 02:29:16.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:43475] logged in with entity id 41317 at (-1335.699999988079, 96.875, 2937.10670523721)
+[02May2025 02:29:16.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[02May2025 02:29:16.380] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[02May2025 02:29:34.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <machucado> estan en privado?
+[02May2025 02:29:39.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AngeloRLP> SI
+[02May2025 02:29:58.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <machucado> zorra ya saben quien
+[02May2025 02:31:47.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <machucado> quein mrd mato al dragon maldita sea
+[02May2025 02:39:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Hot Stuff]
+[02May2025 02:40:47.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <machucado> jajaja q estupido ke eres veo tu nombre en el mapa
+[02May2025 02:40:54.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <machucado> imbeciiiiiiiil
+[02May2025 02:44:01.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado was kicked for floating too long!
+[02May2025 02:44:01.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[02May2025 02:44:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[02May2025 02:44:01.086] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02May2025 02:45:09.475] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:50943] logged in with entity id 54720 at (-1290.726155504178, 65.16659142092402, 3070.7791648834786)
+[02May2025 02:45:09.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[02May2025 02:45:09.488] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[02May2025 02:46:49.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Crops of the Wild]
+[02May2025 02:54:18.209] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nina'/63384, l='ServerLevel[world]', x=-2735.29, y=61.26, z=2574.71] died, message: 'Nina drowned'
+[02May2025 02:54:18.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Nina'/63384, l='ServerLevel[world]', x=-2735.29, y=61.26, z=2574.71] died: Nina drowned
+[02May2025 02:57:00.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado was kicked for floating too long!
+[02May2025 02:57:00.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Flying is not enabled on this server
+[02May2025 02:57:00.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[02May2025 02:57:08.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:41763] logged in with entity id 66597 at (-1289.3425258920804, 83.06816489005841, 3076.4541476612835)
+[02May2025 02:57:08.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[02May2025 02:57:08.035] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)

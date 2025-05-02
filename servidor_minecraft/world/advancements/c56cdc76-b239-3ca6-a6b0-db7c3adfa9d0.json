@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-02 02:22:02 +0000",
       "minecraft:mushroom_fields": "2025-05-01 19:29:41 +0000",
       "minecraft:deep_ocean": "2025-05-01 20:17:07 +0000",
       "minecraft:bamboo_jungle": "2025-04-26 22:02:41 +0000",
@@ -23,6 +24,7 @@
       "minecraft:river": "2025-04-26 04:23:38 +0000",
       "minecraft:lukewarm_ocean": "2025-04-26 21:04:24 +0000",
       "minecraft:stony_shore": "2025-05-01 18:56:19 +0000",
+      "minecraft:jagged_peaks": "2025-05-02 02:23:30 +0000",
       "minecraft:forest": "2025-04-26 04:23:44 +0000",
       "minecraft:lush_caves": "2025-04-28 01:25:31 +0000",
       "minecraft:desert": "2025-04-26 21:04:43 +0000",
@@ -30,6 +32,7 @@
       "minecraft:ocean": "2025-04-27 23:18:54 +0000",
       "minecraft:windswept_savanna": "2025-04-26 20:34:59 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-27 23:50:30 +0000",
+      "minecraft:flower_forest": "2025-05-02 02:15:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-02 02:01:17 +0000",
       "minecraft:meadow": "2025-05-02 02:11:52 +0000",
       "minecraft:savanna": "2025-04-26 21:45:47 +0000",
@@ -744,6 +747,7 @@
       "baked_potato": "2025-04-26 21:12:40 +0000",
       "beef": "2025-04-29 04:11:09 +0000",
       "porkchop": "2025-04-26 04:24:26 +0000",
+      "apple": "2025-05-02 02:40:34 +0000",
       "cooked_cod": "2025-05-01 21:26:13 +0000",
       "bread": "2025-04-27 23:08:59 +0000",
       "golden_apple": "2025-04-29 04:43:12 +0000",
@@ -5188,6 +5192,342 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-02 01:50:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-02 02:29:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-02 02:35:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-05-02 02:29:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2025-05-02 02:35:08 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_crimson_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-05-02 02:23:25 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2025-05-02 02:35:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2025-05-02 02:35:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_cherry_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2025-05-02 02:35:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-02 02:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-02 02:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-05-02 02:19:11 +0000"
     },
     "done": true
   },
