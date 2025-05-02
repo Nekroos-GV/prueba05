@@ -15,6 +15,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-02 05:55:14 +0000",
       "minecraft:mushroom_fields": "2025-05-01 20:19:43 +0000",
+      "minecraft:taiga": "2025-05-02 06:00:58 +0000",
       "minecraft:deep_ocean": "2025-04-25 23:22:25 +0000",
       "minecraft:frozen_river": "2025-04-29 21:20:21 +0000",
       "minecraft:cherry_grove": "2025-04-29 20:54:12 +0000",
@@ -4700,6 +4701,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-05-02 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-02 06:00:43 +0000"
     },
     "done": true
   },

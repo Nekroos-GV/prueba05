@@ -317,3 +317,16 @@
 [02May2025 05:59:30.215] [Worker-Main-205/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
 [02May2025 05:59:32.325] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
 [02May2025 05:59:32.326] [Worker-Main-204/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[02May2025 06:00:26.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV moved too quickly! 3.1967015916916353,0.9318313330276453,9.608502485593021
+[02May2025 06:01:23.963] [Worker-Main-203/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=618}
+[02May2025 06:01:23.964] [Worker-Main-203/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=618}
+[02May2025 06:01:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Spectator Mode]
+[02May2025 06:01:27.201] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-22, y=-57, z=626}
+[02May2025 06:01:27.201] [Worker-Main-188/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-57, z=626}
+[02May2025 06:01:41.722] [Worker-Main-203/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[02May2025 06:01:41.752] [Worker-Main-205/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[02May2025 06:02:21.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
+[02May2025 06:03:30.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Spectator Mode]
+[02May2025 06:03:31.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
+[02May2025 06:03:35.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[02May2025 06:03:35.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
