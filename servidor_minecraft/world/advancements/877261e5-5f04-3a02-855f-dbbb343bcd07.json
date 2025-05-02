@@ -13,6 +13,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-05-02 05:55:14 +0000",
       "minecraft:mushroom_fields": "2025-05-01 20:19:43 +0000",
       "minecraft:deep_ocean": "2025-04-25 23:22:25 +0000",
       "minecraft:frozen_river": "2025-04-29 21:20:21 +0000",
@@ -30,6 +31,9 @@
       "minecraft:stony_shore": "2025-04-25 22:59:28 +0000",
       "minecraft:snowy_plains": "2025-04-29 21:03:30 +0000",
       "minecraft:snowy_taiga": "2025-04-29 21:20:16 +0000",
+      "minecraft:dripstone_caves": "2025-05-02 05:53:01 +0000",
+      "minecraft:grove": "2025-05-02 05:44:49 +0000",
+      "minecraft:jagged_peaks": "2025-05-02 05:44:52 +0000",
       "minecraft:cold_ocean": "2025-04-29 21:39:08 +0000",
       "minecraft:forest": "2025-04-26 05:23:27 +0000",
       "minecraft:lush_caves": "2025-04-26 06:05:33 +0000",
@@ -4654,6 +4658,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-02 05:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-05-02 05:36:45 +0000",
+      "minecraft:sheep": "2025-05-02 05:37:21 +0000",
+      "minecraft:cow": "2025-05-02 05:37:05 +0000",
+      "minecraft:chicken": "2025-05-02 05:35:55 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-05-02 05:00:37 +0000"
@@ -4669,6 +4688,18 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-05-02 05:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-02 05:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-05-02 05:47:05 +0000"
     },
     "done": true
   },
