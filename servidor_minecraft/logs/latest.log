@@ -330,3 +330,7 @@
 [02May2025 06:03:31.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Survival Mode]
 [02May2025 06:03:35.794] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
 [02May2025 06:03:35.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[02May2025 13:11:08.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:53377] logged in with entity id 125625 at (-3672.265973662382, 71.0, 446.18206713265505)
+[02May2025 13:11:08.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[02May2025 13:11:08.967] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[02May2025 13:11:39.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
