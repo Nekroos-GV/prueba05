@@ -278,3 +278,6 @@
 [02May2025 03:24:26.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
 [02May2025 03:26:21.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
 [02May2025 03:26:21.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[02May2025 04:41:26.045] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:58091] logged in with entity id 87097 at (-3638.6071415632864, 81.0, 690.4343605446772)
+[02May2025 04:41:26.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[02May2025 04:41:26.062] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)

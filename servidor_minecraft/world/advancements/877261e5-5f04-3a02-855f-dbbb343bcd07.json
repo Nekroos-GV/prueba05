@@ -4618,6 +4618,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-05-02 03:19:29 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-05-02 03:23:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "iron_knife": "2025-05-02 03:23:52 +0000"
@@ -4633,18 +4645,6 @@
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-05-02 03:23:52 +0000"
-    },
-    "done": true
-  },
-  "paraglider:pray_to_the_goddess": {
-    "criteria": {
-      "bargain": "2025-05-02 03:23:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2025-05-02 03:19:29 +0000"
     },
     "done": true
   },
