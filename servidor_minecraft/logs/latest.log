@@ -265,3 +265,16 @@
 [02May2025 03:14:32.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <machucado> se conecto yayi sale su lol?
 [02May2025 03:15:15.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
 [02May2025 03:15:15.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[02May2025 03:18:52.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado was doomed to fall by Zombie
+[02May2025 03:18:59.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[02May2025 03:18:59.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[02May2025 03:19:03.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlosZGV> oe mongol
+[02May2025 03:19:56.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:50893] logged in with entity id 84164 at (-1327.699999988079, 84.0, 2926.827702360221)
+[02May2025 03:19:56.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[02May2025 03:19:56.509] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[02May2025 03:23:03.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has reached the goal [Pray to the Goddess]
+[02May2025 03:23:52.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Hunt and Gather]
+[02May2025 03:24:26.646] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[02May2025 03:24:26.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[02May2025 03:26:21.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[02May2025 03:26:21.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game

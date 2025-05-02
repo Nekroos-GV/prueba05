@@ -4054,15 +4054,21 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-02 03:10:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-02 03:11:27 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "enchanted_item": "2025-05-02 03:10:20 +0000"
+      "has_wood_slab": "2025-05-02 03:23:38 +0000"
     },
     "done": true
   },
