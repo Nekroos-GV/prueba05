@@ -1390,6 +1390,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-04-26 04:52:04 +0000",
+      "cooked_beef": "2025-05-03 04:54:19 +0000",
       "spider_eye": "2025-04-26 05:03:00 +0000",
       "bread": "2025-04-29 04:14:45 +0000",
       "rotten_flesh": "2025-04-29 04:09:26 +0000",
@@ -2802,6 +2803,18 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-30 01:23:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pasta_with_meatballs": "2025-05-03 04:57:51 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-03 04:57:51 +0000"
     },
     "done": true
   },

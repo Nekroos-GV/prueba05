@@ -970,6 +970,7 @@
       "cooked_mutton": "2025-04-26 21:27:12 +0000",
       "sweet_berries": "2025-04-26 22:11:03 +0000",
       "cooked_beef": "2025-04-26 21:41:43 +0000",
+      "porkchop": "2025-05-03 05:06:33 +0000",
       "apple": "2025-04-29 04:30:03 +0000",
       "cooked_cod": "2025-05-03 03:08:45 +0000",
       "mutton": "2025-04-28 01:27:03 +0000",
@@ -3497,6 +3498,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-03 03:28:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-05-03 04:12:44 +0000"
     },
     "done": true
   },

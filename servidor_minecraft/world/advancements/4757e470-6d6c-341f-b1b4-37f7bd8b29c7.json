@@ -874,6 +874,7 @@
       "minecraft:spider": "2025-04-26 04:56:05 +0000",
       "minecraft:creeper": "2025-04-26 06:10:07 +0000",
       "minecraft:slime": "2025-04-26 20:30:28 +0000",
+      "minecraft:witch": "2025-05-03 05:07:58 +0000",
       "minecraft:enderman": "2025-04-26 05:26:02 +0000",
       "minecraft:zombie": "2025-04-26 05:25:10 +0000"
     },
@@ -4081,6 +4082,30 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-05-03 03:43:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-03 04:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-03 04:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-03 05:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-03 05:08:19 +0000"
     },
     "done": true
   },
