@@ -173,3 +173,18 @@
 [03May2025 02:21:14.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV has made the advancement [Who You Gonna Call?]
 [03May2025 02:25:37.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was shot by Skeleton
 [03May2025 02:27:13.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set Gh0stLynx19's game mode to Creative Mode]
+[03May2025 02:32:57.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Jungle Fliers]
+[03May2025 02:33:04.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Gh0stLynx19) moved wrongly! 0.34301739892591326
+[03May2025 02:33:12.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[03May2025 02:44:24.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[03May2025 02:44:24.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[03May2025 02:45:43.313] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:48955] logged in with entity id 89121 at (-1295.218779484522, 286.0, 3069.9679807562416)
+[03May2025 02:45:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[03May2025 02:45:43.338] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[03May2025 02:46:35.010] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosZGV[/127.141.120.141:33165] logged in with entity id 89759 at (-2967.2988850046445, 88.0, 985.0737162982482)
+[03May2025 02:46:35.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV joined the game
+[03May2025 02:46:35.039] [Server thread/INFO] [Jade/]: Syncing config to carlosZGV (877261e5-5f04-3a02-855f-dbbb343bcd07)
+[03May2025 02:46:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set Gh0stLynx19's game mode to Survival Mode]
+[03May2025 02:46:57.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
+[03May2025 02:46:57.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
+[03May2025 02:49:31.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Fishy Business]
