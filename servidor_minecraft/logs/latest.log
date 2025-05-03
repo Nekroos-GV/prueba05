@@ -188,3 +188,7 @@
 [03May2025 02:46:57.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosZGV lost connection: Disconnected
 [03May2025 02:46:57.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: carlosZGV left the game
 [03May2025 02:49:31.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 has made the advancement [Fishy Business]
+[03May2025 03:10:22.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[03May2025 03:10:22.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
+[03May2025 03:10:55.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[03May2025 03:10:55.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
