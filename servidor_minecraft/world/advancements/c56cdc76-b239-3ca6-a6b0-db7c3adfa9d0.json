@@ -17,6 +17,7 @@
       "minecraft:mushroom_fields": "2025-05-01 19:29:41 +0000",
       "minecraft:taiga": "2025-05-03 00:58:30 +0000",
       "minecraft:deep_ocean": "2025-05-01 20:17:07 +0000",
+      "minecraft:frozen_river": "2025-05-03 01:05:29 +0000",
       "minecraft:sunflower_plains": "2025-05-03 00:44:28 +0000",
       "minecraft:birch_forest": "2025-05-03 00:50:19 +0000",
       "minecraft:bamboo_jungle": "2025-04-26 22:02:41 +0000",
@@ -28,10 +29,13 @@
       "minecraft:river": "2025-04-26 04:23:38 +0000",
       "minecraft:lukewarm_ocean": "2025-04-26 21:04:24 +0000",
       "minecraft:stony_shore": "2025-05-01 18:56:19 +0000",
+      "minecraft:snowy_plains": "2025-05-03 01:05:32 +0000",
+      "minecraft:snowy_taiga": "2025-05-03 01:04:14 +0000",
       "minecraft:jagged_peaks": "2025-05-02 02:23:30 +0000",
       "minecraft:cold_ocean": "2025-05-03 00:58:07 +0000",
       "minecraft:forest": "2025-04-26 04:23:44 +0000",
       "minecraft:lush_caves": "2025-04-28 01:25:31 +0000",
+      "minecraft:frozen_ocean": "2025-05-03 01:03:57 +0000",
       "minecraft:desert": "2025-04-26 21:04:43 +0000",
       "minecraft:jungle": "2025-04-26 20:42:26 +0000",
       "minecraft:ocean": "2025-04-27 23:18:54 +0000",
@@ -5572,6 +5576,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-03 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-03 01:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-03 00:30:47 +0000"
@@ -5593,6 +5609,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-05-03 00:24:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-05-03 01:03:18 +0000"
     },
     "done": true
   },
@@ -5623,6 +5645,12 @@
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-05-03 00:33:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-03 01:03:18 +0000"
     },
     "done": true
   },
@@ -5689,6 +5717,12 @@
   "farmersdelight:recipes/food/tomato": {
     "criteria": {
       "has_tomato_crate": "2025-05-03 00:46:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-03 01:03:18 +0000"
     },
     "done": true
   },
