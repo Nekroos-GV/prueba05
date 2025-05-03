@@ -5600,6 +5600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-05-03 02:08:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/jar_pixie": {
     "criteria": {
       "jar": "2025-05-03 00:52:32 +0000"
@@ -5630,6 +5636,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 02:08:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
       "has_potato_crate": "2025-05-03 00:46:37 +0000"
@@ -5651,6 +5663,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-05-03 00:40:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "rice_roll_medley": "2025-05-03 01:54:12 +0000"
     },
     "done": true
   },
