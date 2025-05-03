@@ -4072,5 +4072,17 @@
     },
     "done": true
   },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pasta_with_meatballs": "2025-05-03 03:43:47 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-05-03 03:43:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

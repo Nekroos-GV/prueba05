@@ -193,3 +193,20 @@
 [03May2025 03:10:55.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
 [03May2025 03:10:55.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
 [03May2025 03:18:15.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was incinerated by Fire Dragon
+[03May2025 03:35:53.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 was turned into KFC by Fire Dragon
+[03May2025 03:40:16.884] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d75524f[id=<null>,name=AngeloRLP,properties={},legacy=false] (/127.84.126.82:38117) lost connection: Disconnected
+[03May2025 03:40:17.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.154.119.84:34495] logged in with entity id 116110 at (-190.76241234642922, 93.0, 368.7447800569819)
+[03May2025 03:40:17.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[03May2025 03:40:17.361] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
+[03May2025 03:40:20.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngeloRLP[/127.84.126.82:47745] logged in with entity id 116249 at (444.5033849290982, 71.0, 4514.136010235186)
+[03May2025 03:40:20.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP joined the game
+[03May2025 03:40:20.375] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
+[03May2025 03:43:01.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gh0stLynx19 lost connection: Disconnected
+[03May2025 03:43:01.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 left the game
+[03May2025 03:43:48.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gh0stLynx19[/127.29.47.38:44935] logged in with entity id 120435 at (-1199.0509283504962, 70.0, 1876.501127316665)
+[03May2025 03:43:48.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gh0stLynx19 joined the game
+[03May2025 03:43:48.369] [Server thread/INFO] [Jade/]: Syncing config to Gh0stLynx19 (11d3baa2-e283-3d1a-922f-a6ddd09f7c2f)
+[03May2025 03:44:35.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngeloRLP lost connection: Disconnected
+[03May2025 03:44:35.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngeloRLP left the game
+[03May2025 03:44:37.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: machucado lost connection: Disconnected
+[03May2025 03:44:37.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado left the game
