@@ -5594,9 +5594,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-03 01:30:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/jar_pixie": {
     "criteria": {
       "jar": "2025-05-03 00:52:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-05-03 01:40:02 +0000"
     },
     "done": true
   },
@@ -5621,6 +5633,12 @@
   "farmersdelight:recipes/food/potato_from_crate": {
     "criteria": {
       "has_potato_crate": "2025-05-03 00:46:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-05-03 01:34:41 +0000"
     },
     "done": true
   },
@@ -5660,6 +5678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 01:30:59 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-05-03 00:39:35 +0000"
@@ -5687,6 +5711,12 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-05-03 00:28:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-05-03 01:42:42 +0000"
     },
     "done": true
   },
