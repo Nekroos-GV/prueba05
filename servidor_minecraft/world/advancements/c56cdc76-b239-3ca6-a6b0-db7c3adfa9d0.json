@@ -15,16 +15,21 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-02 02:22:02 +0000",
       "minecraft:mushroom_fields": "2025-05-01 19:29:41 +0000",
+      "minecraft:taiga": "2025-05-03 00:58:30 +0000",
       "minecraft:deep_ocean": "2025-05-01 20:17:07 +0000",
+      "minecraft:sunflower_plains": "2025-05-03 00:44:28 +0000",
+      "minecraft:birch_forest": "2025-05-03 00:50:19 +0000",
       "minecraft:bamboo_jungle": "2025-04-26 22:02:41 +0000",
       "minecraft:badlands": "2025-05-01 18:55:34 +0000",
       "minecraft:beach": "2025-04-26 04:14:02 +0000",
+      "minecraft:dark_forest": "2025-05-03 00:51:30 +0000",
       "minecraft:mangrove_swamp": "2025-04-26 21:38:54 +0000",
       "minecraft:sparse_jungle": "2025-04-26 04:41:13 +0000",
       "minecraft:river": "2025-04-26 04:23:38 +0000",
       "minecraft:lukewarm_ocean": "2025-04-26 21:04:24 +0000",
       "minecraft:stony_shore": "2025-05-01 18:56:19 +0000",
       "minecraft:jagged_peaks": "2025-05-02 02:23:30 +0000",
+      "minecraft:cold_ocean": "2025-05-03 00:58:07 +0000",
       "minecraft:forest": "2025-04-26 04:23:44 +0000",
       "minecraft:lush_caves": "2025-04-28 01:25:31 +0000",
       "minecraft:desert": "2025-04-26 21:04:43 +0000",
@@ -5573,6 +5578,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2025-05-03 00:52:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-03 00:30:47 +0000"
@@ -5582,6 +5593,30 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-05-03 00:24:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-05-03 00:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-03 00:40:10 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-05-03 00:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 00:58:32 +0000"
     },
     "done": true
   },
@@ -5597,9 +5632,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-03 00:39:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-03 00:51:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-03 00:39:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-03 00:39:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2025-05-03 00:28:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cabbage": {
+    "criteria": {
+      "has_cabbage_crate": "2025-05-03 00:46:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/straw": {
+    "criteria": {
+      "has_straw_bale": "2025-05-03 00:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-03 00:51:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-03 00:40:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/tomato": {
+    "criteria": {
+      "has_tomato_crate": "2025-05-03 00:46:35 +0000"
     },
     "done": true
   },
