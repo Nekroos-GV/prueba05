@@ -5265,27 +5265,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_leggings": {
+  "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
-      "has_item": "2025-05-03 05:27:43 +0000"
+      "has_item": "2025-05-03 05:27:31 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roast_chicken_block": {
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
-      "has_cooked_chicken": "2025-05-03 05:42:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/tame_cockatrice": {
-    "criteria": {
-      "tame_rat": "2025-05-03 05:44:17 +0000"
+      "has_item": "2025-05-03 05:27:31 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
       "has_item": "2025-05-03 05:27:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-05-03 05:27:43 +0000"
     },
     "done": true
   },
@@ -5301,27 +5301,27 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/tame_amphithere": {
-    "criteria": {
-      "tame_rat": "2025-05-03 05:36:33 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-05-03 05:27:31 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-05-03 05:27:43 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+  "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
-      "has_item": "2025-05-03 05:27:31 +0000"
+      "has_item": "2025-05-03 05:27:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_amphithere": {
+    "criteria": {
+      "tame_rat": "2025-05-03 05:36:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-03 05:42:16 +0000"
     },
     "done": true
   },
@@ -5331,9 +5331,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_helmet": {
+  "iceandfire:iceandfire/tame_cockatrice": {
     "criteria": {
-      "has_item": "2025-05-03 05:27:43 +0000"
+      "tame_rat": "2025-05-03 05:44:17 +0000"
     },
     "done": true
   },
