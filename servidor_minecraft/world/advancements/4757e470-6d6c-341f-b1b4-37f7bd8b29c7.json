@@ -4109,5 +4109,11 @@
     },
     "done": true
   },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_buttercup": "2025-05-04 01:51:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
