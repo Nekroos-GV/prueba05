@@ -157,3 +157,8 @@
 [04May2025 02:09:41.915] [Server thread/INFO] [Jade/]: Syncing config to AngeloRLP (c56cdc76-b239-3ca6-a6b0-db7c3adfa9d0)
 [04May2025 02:14:33.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlosZGV> oe
 [04May2025 02:14:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlosZGV> entra
+[04May2025 02:18:07.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carlosZGV) moved wrongly! 0.2781428076019397
+[04May2025 02:18:08.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carlosZGV) moved wrongly! 0.41695809555810626
+[04May2025 02:18:29.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of carlosZGV) moved wrongly! 0.2752586603316934
+[04May2025 02:18:40.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [carlosZGV: Set own game mode to Creative Mode]
+[04May2025 02:24:49.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <carlosZGV> ENTRA AL DISCORD CTMR
