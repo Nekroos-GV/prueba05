@@ -158,3 +158,6 @@
 [04May2025 01:11:03.633] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [04May2025 01:11:03.633] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [04May2025 01:20:59.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=474, y=70, z=4529} BlockPos{x=475, y=68, z=4530}
+[04May2025 01:31:00.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: machucado[/127.209.16.204:44755] logged in with entity id 5633 at (-1294.9888354336683, 265.0, 3073.300000011921)
+[04May2025 01:31:00.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: machucado joined the game
+[04May2025 01:31:00.844] [Server thread/INFO] [Jade/]: Syncing config to machucado (4757e470-6d6c-341f-b1b4-37f7bd8b29c7)
